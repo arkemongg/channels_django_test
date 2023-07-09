@@ -1,0 +1,845 @@
+[
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreateSerializer",
+        "importPath": "djoser.serializers",
+        "description": "djoser.serializers",
+        "isExtraImport": true,
+        "detail": "djoser.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TokenCreateSerializer",
+        "importPath": "djoser.serializers",
+        "description": "djoser.serializers",
+        "isExtraImport": true,
+        "detail": "djoser.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "ProtocolTypeRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "URLRouter",
+        "importPath": "channels.routing",
+        "description": "channels.routing",
+        "isExtraImport": true,
+        "detail": "channels.routing",
+        "documentation": {}
+    },
+    {
+        "label": "AuthMiddlewareStack",
+        "importPath": "channels.auth",
+        "description": "channels.auth",
+        "isExtraImport": true,
+        "detail": "channels.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ws_url",
+        "importPath": "myapp.routing",
+        "description": "myapp.routing",
+        "isExtraImport": true,
+        "detail": "myapp.routing",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "WebsocketConsumer",
+        "importPath": "channels.generic.websocket",
+        "description": "channels.generic.websocket",
+        "isExtraImport": true,
+        "detail": "channels.generic.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncWebsocketConsumer",
+        "importPath": "channels.generic.websocket",
+        "description": "channels.generic.websocket",
+        "isExtraImport": true,
+        "detail": "channels.generic.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Messages",
+        "importPath": "playground.models",
+        "description": "playground.models",
+        "isExtraImport": true,
+        "detail": "playground.models",
+        "documentation": {}
+    },
+    {
+        "label": "MessageSerailizers",
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "isExtraImport": true,
+        "detail": "playground.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "database_sync_to_async",
+        "importPath": "channels.db",
+        "description": "channels.db",
+        "isExtraImport": true,
+        "detail": "channels.db",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework_nested",
+        "description": "rest_framework_nested",
+        "isExtraImport": true,
+        "detail": "rest_framework_nested",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0001_initial",
+        "description": "core.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "core.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "core.apps",
+        "description": "core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'core'",
+        "detail": "core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "core.models",
+        "description": "core.models",
+        "peekOfCode": "class User(AbstractUser):\n    email = models.EmailField(unique=True)",
+        "detail": "core.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreateSerializer",
+        "kind": 6,
+        "importPath": "core.serializers",
+        "description": "core.serializers",
+        "peekOfCode": "class UserCreateSerializer(BaseUserCreateSerializer):\n    class Meta(BaseUserCreateSerializer.Meta):\n        fields = ['email','username','password','first_name','last_name']\nclass TokenCreateSerializer(BaseTokenCreateSerializer):\n    pass\n# {\n#     \"refresh\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY4ODk5ODgwNCwiaWF0IjoxNjg4OTEyNDA0LCJqdGkiOiI3NGM2ODNjNzZhMTc0ZTJhYjYxYzgwYjVhZDAzMDk5OSIsInVzZXJfaWQiOjF9.UsEQLMGgmAdy3pOSlyKdzBanTheaIKdPySZoDw9WJVg\",\n#     \"access\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjg4OTk4ODA0LCJpYXQiOjE2ODg5MTI0MDQsImp0aSI6IjVjNGFhMDUwYmMzZDRkY2ZiMWFkM2ViOTBjMWVlYjhiIiwidXNlcl9pZCI6MX0.zzFMGi9J1SnAA-HRQUxAX153CiOB1F7R5AZAgkxPOSI\"\n# }",
+        "detail": "core.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TokenCreateSerializer",
+        "kind": 6,
+        "importPath": "core.serializers",
+        "description": "core.serializers",
+        "peekOfCode": "class TokenCreateSerializer(BaseTokenCreateSerializer):\n    pass\n# {\n#     \"refresh\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY4ODk5ODgwNCwiaWF0IjoxNjg4OTEyNDA0LCJqdGkiOiI3NGM2ODNjNzZhMTc0ZTJhYjYxYzgwYjVhZDAzMDk5OSIsInVzZXJfaWQiOjF9.UsEQLMGgmAdy3pOSlyKdzBanTheaIKdPySZoDw9WJVg\",\n#     \"access\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjg4OTk4ODA0LCJpYXQiOjE2ODg5MTI0MDQsImp0aSI6IjVjNGFhMDUwYmMzZDRkY2ZiMWFkM2ViOTBjMWVlYjhiIiwidXNlcl9pZCI6MX0.zzFMGi9J1SnAA-HRQUxAX153CiOB1F7R5AZAgkxPOSI\"\n# }",
+        "detail": "core.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "django_asgi_app",
+        "kind": 5,
+        "importPath": "djangochannels.asgi",
+        "description": "djangochannels.asgi",
+        "peekOfCode": "django_asgi_app = get_asgi_application()\napplication = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\":URLRouter(ws_url)\n})",
+        "detail": "djangochannels.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "djangochannels.asgi",
+        "description": "djangochannels.asgi",
+        "peekOfCode": "application = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\":URLRouter(ws_url)\n})",
+        "detail": "djangochannels.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-ae-lry6f!rz3ke%zd*2e_%hx-s*sb8=1@)23)y=j0)fnx9spnr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-ae-lry6f!rz3ke%zd*2e_%hx-s*sb8=1@)23)y=j0)fnx9spnr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'djoser',",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'djangochannels.urls'",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "ROOT_URLCONF = 'djangochannels.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ASGI_APPLICATION",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "ASGI_APPLICATION = 'djangochannels.asgi.application'\nCHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',\n    },\n}\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CHANNEL_LAYERS",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "CHANNEL_LAYERS = {\n    'default': {\n        'BACKEND': 'channels.layers.InMemoryChannelLayer',\n    },\n}\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'djangochannels',\n        'HOST':'localhost',\n        'USER':'root',\n        'PORT':3306,\n        'PASSWORD':os.getenv('DB_PASSWORD')\n    }\n}",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    )\n}\nDJOSER = {\n    'SERIALIZERS':{\n        'user_create':'core.serializers.UserCreateSerializer',\n        'token_create': 'core.serializers.TokenCreateSerializer',\n    }",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DJOSER",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "DJOSER = {\n    'SERIALIZERS':{\n        'user_create':'core.serializers.UserCreateSerializer',\n        'token_create': 'core.serializers.TokenCreateSerializer',\n    }\n}\nSIMPLE_JWT = {\n    'AUTH_HEADER_TYPES': ('JWT',),\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(days=1),\n}",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'AUTH_HEADER_TYPES': ('JWT',),\n    \"ACCESS_TOKEN_LIFETIME\": timedelta(days=1),\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'core.User'",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'core.User'",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'core.User'",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'core.User'",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nAUTH_USER_MODEL = 'core.User'",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'core.User'",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "djangochannels.urls",
+        "description": "djangochannels.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('playground/',include('playground.urls')),\n    path('api-auth/', include('rest_framework.urls')),\n    path('auth/', include('djoser.urls')),\n    path('auth/', include('djoser.urls.jwt')),\n]",
+        "detail": "djangochannels.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "djangochannels.wsgi",
+        "description": "djangochannels.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "djangochannels.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "MyappConfig",
+        "kind": 6,
+        "importPath": "myapp.apps",
+        "description": "myapp.apps",
+        "peekOfCode": "class MyappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'myapp'",
+        "detail": "myapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MyConsumer",
+        "kind": 6,
+        "importPath": "myapp.consumers",
+        "description": "myapp.consumers",
+        "peekOfCode": "class MyConsumer(WebsocketConsumer):\n    groups = [\"broadcast\"]\n    def connect(self):\n        self.accept()\n        queryset = Messages.objects.all()\n        self.send(queryset[-1].text)\n    def receive(self, text_data):\n        print(text_data)\nclass AsyncMyConsumer(AsyncWebsocketConsumer):\n    groups = [\"broadcast\"]",
+        "detail": "myapp.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncMyConsumer",
+        "kind": 6,
+        "importPath": "myapp.consumers",
+        "description": "myapp.consumers",
+        "peekOfCode": "class AsyncMyConsumer(AsyncWebsocketConsumer):\n    groups = [\"broadcast\"]\n    @database_sync_to_async\n    def database(self):\n        queryset = Messages.objects.all()\n        serializer = MessageSerailizers(queryset, many=True)\n        serialized_data = serializer.data\n        return serialized_data\n    @database_sync_to_async\n    def database_post(self,message):",
+        "detail": "myapp.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "ws_url",
+        "kind": 5,
+        "importPath": "myapp.routing",
+        "description": "myapp.routing",
+        "peekOfCode": "ws_url = [\n    path('myapp/test/',MyConsumer.as_asgi()),\n    path('myapp/asynctest/',AsyncMyConsumer.as_asgi())\n]",
+        "detail": "myapp.routing",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "playground.migrations.0001_initial",
+        "description": "playground.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='messages',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('text', models.CharField(max_length=50)),",
+        "detail": "playground.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "PlaygroundConfig",
+        "kind": 6,
+        "importPath": "playground.apps",
+        "description": "playground.apps",
+        "peekOfCode": "class PlaygroundConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'playground'",
+        "detail": "playground.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "playground.models",
+        "description": "playground.models",
+        "peekOfCode": "class Users(models.Model):\n    pass\nclass Messages(models.Model):\n    text = models.CharField(max_length=50)",
+        "detail": "playground.models",
+        "documentation": {}
+    },
+    {
+        "label": "Messages",
+        "kind": 6,
+        "importPath": "playground.models",
+        "description": "playground.models",
+        "peekOfCode": "class Messages(models.Model):\n    text = models.CharField(max_length=50)",
+        "detail": "playground.models",
+        "documentation": {}
+    },
+    {
+        "label": "MessageSerailizers",
+        "kind": 6,
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "peekOfCode": "class MessageSerailizers(serializers.ModelSerializer):\n    class Meta:\n        model = Messages\n        fields = ['text']",
+        "detail": "playground.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "playground.urls",
+        "description": "playground.urls",
+        "peekOfCode": "router = routers.SimpleRouter()\nrouter.register('messages',MessageViewSet,basename='message-list')\nurlpatterns = [\n    path('hello/',hello),\n    path('', include(router.urls)),\n]",
+        "detail": "playground.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "playground.urls",
+        "description": "playground.urls",
+        "peekOfCode": "urlpatterns = [\n    path('hello/',hello),\n    path('', include(router.urls)),\n]",
+        "detail": "playground.urls",
+        "documentation": {}
+    },
+    {
+        "label": "MessageViewSet",
+        "kind": 6,
+        "importPath": "playground.views",
+        "description": "playground.views",
+        "peekOfCode": "class MessageViewSet(ModelViewSet):\n    serializer_class = MessageSerailizers\n    def get_queryset(self):\n        if self.request.method == 'GET':\n            return Messages.objects.all()",
+        "detail": "playground.views",
+        "documentation": {}
+    },
+    {
+        "label": "hello",
+        "kind": 2,
+        "importPath": "playground.views",
+        "description": "playground.views",
+        "peekOfCode": "def hello(request):\n    return render(request,'hello.html')\nclass MessageViewSet(ModelViewSet):\n    serializer_class = MessageSerailizers\n    def get_queryset(self):\n        if self.request.method == 'GET':\n            return Messages.objects.all()",
+        "detail": "playground.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'djangochannels.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

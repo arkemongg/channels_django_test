@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    li{
+        font-size: 26px;
+    }
+</style>
+<body>
+    <input id="message" type="text">
+    <button id="btn">Submit</button>
+    <h1>TextField</h1>
+    <ul id="list-main">
+        <li class="list-title">Messages</li>
+    </ul>
+    <script>
+
+        const btn = document.getElementById("btn")
+        const input = document.getElementById("message")
+
+        //const websocket = new WebSocket('ws://127.0.0.1:8000/myapp/test/')
+        const asyncwebsocket = new WebSocket('ws://127.0.0.1:8000/myapp/asynctest/')
+         btn.addEventListener('click',e=>{
+            asyncwebsocket.send(input.value)
+        })
+        // websocket.onmessage = function(e){
+        //     console.log(e);
+        //     //let message = JSON.parse(e.data)
+        //     //console.log(message.message)
+        //     websocket.send('hello')
+        // }
+        const ul = document.getElementById("list-main")
+
+        asyncwebsocket.addEventListener('message', (event) => {
+            const receivedData = event.data;
+            const data = JSON.parse(event.data)
+            if(data.length>1){
+                data.forEach(element => {
+                let li = document.createElement('li')
+                li.textContent = element.text
+                ul.appendChild(li)
+                });
+            }else{
+                let li = document.createElement('li')
+                li.textContent = data.text
+                ul.prepend(li)
+            }
+        });
+
+    </script>
+</body>
+</html>
