@@ -29,7 +29,9 @@ SECRET_KEY = 'django-insecure-ae-lry6f!rz3ke%zd*2e_%hx-s*sb8=1@)23)y=j0)fnx9spnr
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+CORS_ALLOWED_ORIGINS = [
+    "http://127.0.0.1:5500",
+]
 
 # Application definition
 
@@ -43,6 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'djoser',
+    "corsheaders",
     'playground',
     'channels',
     'myapp',
@@ -50,8 +53,10 @@ INSTALLED_APPS = [
 ]
 
 MIDDLEWARE = [
+
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    "corsheaders.middleware.CorsMiddleware",
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -90,7 +95,7 @@ CHANNEL_LAYERS = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'djangochannels',
+        'NAME': 'djangochannel',
         'HOST':'localhost',
         'USER':'root',
         'PORT':3306,

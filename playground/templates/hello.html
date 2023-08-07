@@ -5,51 +5,111 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<style>
-    li{
-        font-size: 26px;
-    }
-</style>
 <body>
-    <input id="message" type="text">
-    <button id="btn">Submit</button>
-    <h1>TextField</h1>
-    <ul id="list-main">
-        <li class="list-title">Messages</li>
-    </ul>
+    <section class="groups-section">
+        <h1 style="text-align: center;">My Groups</h1>
+        <ul class="my-groups">
+
+        </ul>
+
+        <h1 style="text-align: center;">Other Groups</h1>
+
+        <ul class="other-groups">
+
+        </ul>
+    </section>
+
     <script>
-
-        const btn = document.getElementById("btn")
-        const input = document.getElementById("message")
-
-        //const websocket = new WebSocket('ws://127.0.0.1:8000/myapp/test/')
-        const asyncwebsocket = new WebSocket('ws://127.0.0.1:8000/myapp/asynctest/')
-         btn.addEventListener('click',e=>{
-            asyncwebsocket.send(input.value)
-        })
-        // websocket.onmessage = function(e){
-        //     console.log(e);
-        //     //let message = JSON.parse(e.data)
-        //     //console.log(message.message)
-        //     websocket.send('hello')
+        const websocket = new WebSocket("ws://127.0.0.1:8000/myapp/test/")
+        // const btn = document.getElementById("btn")
+        // websocket.onmessage = function(event){
+        //     console.log(event);
         // }
-        const ul = document.getElementById("list-main")
+        // btn.addEventListener('click',event=>{
+        //     websocket.send('aaaaa')
+        // })
+        // const home_page_socket = new WebSocket("ws://127.0.0.1:8000/myapp/home/")
+        // let i = 0;
+        // const group_ul = document.querySelector('.group-ul')
+        // home_page_socket.onmessage = function(e){
+        //     console.log(e);
+        //     data = JSON.parse(e.data)
+            
+        //     if(data.label==="availabe_groups"||data.label=="joined_groups"){
+        //         data.data.forEach(element => {
+        //         const li = document.createElement('li')
+        //         const btn = document.createElement('button')
+        //         btn.textContent = element.title +`(${element.members}/100)`
+        //         // if (i==0){
+        //         //     btn.textContent+=" (joined)"
+        //         // }
+        //         btn.setAttribute('id',element.id)
+        //         li.append(btn)
+        //         group_ul.appendChild(li)
+        //         });
+        //     }else if(data.label === "updated_data"){
+        //         li = document.getElementById(data.data.group_id)
+        //         li.textContent+=" 1"
+        //     }
+        // }
+        // group_ul.addEventListener('click',event=>{
+        //     if(event.target.tagName == "BUTTON"){
+        //         // const group_id = event.target.id
+        //         // const ws = new WebSocket(`ws://127.0.0.1:8000/myapp/groups/${group_id}`)
+        //         home_page_socket.send(event.target.id)
+        //     }
+        // })
 
-        asyncwebsocket.addEventListener('message', (event) => {
-            const receivedData = event.data;
-            const data = JSON.parse(event.data)
-            if(data.length>1){
-                data.forEach(element => {
-                let li = document.createElement('li')
-                li.textContent = element.text
-                ul.appendChild(li)
-                });
-            }else{
-                let li = document.createElement('li')
-                li.textContent = data.text
-                ul.prepend(li)
-            }
-        });
+        //  const btn = document.getElementById("btn")
+        //  const input = document.getElementById("message")
+
+        // //const websocket = new WebSocket('ws://127.0.0.1:8000/myapp/test/')
+        // const asyncwebsocket = new WebSocket('ws://127.0.0.1:8000/myapp/asynctest/')
+        //  btn.addEventListener('click',e=>{
+        //     asyncwebsocket.send(input.value)
+        // })
+        
+        // // websocket.onmessage = function(e){
+        // //     console.log(e);
+        // //     //let message = JSON.parse(e.data)
+        // //     //console.log(message.message)
+        // //     websocket.send('hello')
+        // // }
+        // const ul = document.getElementById("list-main")
+
+        // asyncwebsocket.addEventListener('message', (event) => {
+        //     const receivedData = event.data;
+            
+        //     const data = JSON.parse(event.data)
+            
+        //     console.log(data);
+
+        //     if(data.length > 1){
+        //         data.forEach(element => {
+        //         let li = document.createElement('li')
+        //         li.textContent = element.text
+        //         ul.appendChild(li)
+        //         });
+        //     }else{
+        //         let message = data.text
+        //         if(message === undefined){
+        //             message = data[0].text
+        //         }
+                
+        //         let li = document.createElement('li')
+        //         li.textContent = message
+        //         ul.prepend(li)
+        //     }
+        // });
+
+        // const groupswebscoket = new WebSocket('ws://127.0.0.1:8000/myapp/groups/1')
+        // btn.addEventListener('click',e=>{
+        //     groupswebscoket.send(input.value)
+        // })
+
+        //     groupswebscoket.onmessage = function(e){
+        //         console.log(e);
+        //     }
 
     </script>
 </body>

@@ -17,6 +17,7 @@ class MessageViewSet(ModelViewSet):
     
     def get_queryset(self):
         if self.request.method == 'GET':
+            print(self.request.user)
             return Messages.objects.filter(account_id=self.request.user.id).all()
     def get_serializer_context(self):
         return {

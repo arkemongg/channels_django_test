@@ -1,82 +1,11 @@
 [
     {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
+        "label": "django.contrib.auth.models",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "admin",
-        "importPath": "django.contrib",
-        "description": "django.contrib",
-        "isExtraImport": true,
-        "detail": "django.contrib",
-        "documentation": {}
-    },
-    {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
-        "isExtraImport": true,
-        "detail": "django.apps",
-        "documentation": {}
-    },
-    {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
-        "isExtraImport": true,
-        "detail": "django.apps",
-        "documentation": {}
-    },
-    {
-        "label": "AppConfig",
-        "importPath": "django.apps",
-        "description": "django.apps",
-        "isExtraImport": true,
-        "detail": "django.apps",
-        "documentation": {}
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
-        "documentation": {}
-    },
-    {
-        "label": "models",
-        "importPath": "django.db",
-        "description": "django.db",
-        "isExtraImport": true,
-        "detail": "django.db",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
         "documentation": {}
     },
     {
@@ -85,6 +14,185 @@
         "description": "django.contrib.auth.models",
         "isExtraImport": true,
         "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.validators",
+        "description": "django.contrib.auth.validators",
+        "detail": "django.contrib.auth.validators",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "rest_framework",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "detail": "rest_framework",
         "documentation": {}
     },
     {
@@ -225,6 +333,14 @@
         "documentation": {}
     },
     {
+        "label": "SessionMiddlewareStack",
+        "importPath": "channels.sessions",
+        "description": "channels.sessions",
+        "isExtraImport": true,
+        "detail": "channels.sessions",
+        "documentation": {}
+    },
+    {
         "label": "timedelta",
         "importPath": "datetime",
         "description": "datetime",
@@ -322,6 +438,22 @@
         "documentation": {}
     },
     {
+        "label": "Account",
+        "importPath": "playground.models",
+        "description": "playground.models",
+        "isExtraImport": true,
+        "detail": "playground.models",
+        "documentation": {}
+    },
+    {
+        "label": "Groups",
+        "importPath": "playground.models",
+        "description": "playground.models",
+        "isExtraImport": true,
+        "detail": "playground.models",
+        "documentation": {}
+    },
+    {
         "label": "Messages",
         "importPath": "playground.models",
         "description": "playground.models",
@@ -330,7 +462,39 @@
         "documentation": {}
     },
     {
+        "label": "Account",
+        "importPath": "playground.models",
+        "description": "playground.models",
+        "isExtraImport": true,
+        "detail": "playground.models",
+        "documentation": {}
+    },
+    {
+        "label": "GroupSerializer",
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "isExtraImport": true,
+        "detail": "playground.serializers",
+        "documentation": {}
+    },
+    {
         "label": "MessageSerializer",
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "isExtraImport": true,
+        "detail": "playground.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleGroupSerializer",
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "isExtraImport": true,
+        "detail": "playground.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleMessageSerializer",
         "importPath": "playground.serializers",
         "description": "playground.serializers",
         "isExtraImport": true,
@@ -343,6 +507,14 @@
         "description": "channels.db",
         "isExtraImport": true,
         "detail": "channels.db",
+        "documentation": {}
+    },
+    {
+        "label": "get_channel_layer",
+        "importPath": "channels.layers",
+        "description": "channels.layers",
+        "isExtraImport": true,
+        "detail": "channels.layers",
         "documentation": {}
     },
     {
@@ -395,11 +567,68 @@
         "documentation": {}
     },
     {
+        "label": "async_to_sync",
+        "importPath": "asgiref.sync",
+        "description": "asgiref.sync",
+        "isExtraImport": true,
+        "detail": "asgiref.sync",
+        "documentation": {}
+    },
+    {
         "label": "settings",
         "importPath": "django.conf",
         "description": "django.conf",
         "isExtraImport": true,
         "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
         "documentation": {}
     },
     {
@@ -452,6 +681,15 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "core.migrations.0001_initial",
+        "description": "core.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "core.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
         "label": "CoreConfig",
         "kind": 6,
         "importPath": "core.apps",
@@ -492,7 +730,7 @@
         "kind": 5,
         "importPath": "djangochannels.asgi",
         "description": "djangochannels.asgi",
-        "peekOfCode": "django_asgi_app = get_asgi_application()\napplication = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\":AuthMiddlewareStack(\n        URLRouter(ws_url)\n    )\n})",
+        "peekOfCode": "django_asgi_app = get_asgi_application()\napplication = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AllowedHostsOriginValidator(\n        SessionMiddlewareStack(\n            AuthMiddlewareStack(\n                URLRouter(ws_url)\n            )\n        )\n    )",
         "detail": "djangochannels.asgi",
         "documentation": {}
     },
@@ -501,7 +739,7 @@
         "kind": 5,
         "importPath": "djangochannels.asgi",
         "description": "djangochannels.asgi",
-        "peekOfCode": "application = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\":AuthMiddlewareStack(\n        URLRouter(ws_url)\n    )\n})",
+        "peekOfCode": "application = ProtocolTypeRouter({\n    \"http\": django_asgi_app,\n    \"websocket\": AllowedHostsOriginValidator(\n        SessionMiddlewareStack(\n            AuthMiddlewareStack(\n                URLRouter(ws_url)\n            )\n        )\n    )\n})",
         "detail": "djangochannels.asgi",
         "documentation": {}
     },
@@ -510,7 +748,7 @@
         "kind": 5,
         "importPath": "djangochannels.settings",
         "description": "djangochannels.settings",
-        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-ae-lry6f!rz3ke%zd*2e_%hx-s*sb8=1@)23)y=j0)fnx9spnr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-ae-lry6f!rz3ke%zd*2e_%hx-s*sb8=1@)23)y=j0)fnx9spnr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nCORS_ALLOWED_ORIGINS = [\n    \"http://127.0.0.1:5500\",",
         "detail": "djangochannels.settings",
         "documentation": {}
     },
@@ -519,7 +757,7 @@
         "kind": 5,
         "importPath": "djangochannels.settings",
         "description": "djangochannels.settings",
-        "peekOfCode": "SECRET_KEY = 'django-insecure-ae-lry6f!rz3ke%zd*2e_%hx-s*sb8=1@)23)y=j0)fnx9spnr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-ae-lry6f!rz3ke%zd*2e_%hx-s*sb8=1@)23)y=j0)fnx9spnr'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nCORS_ALLOWED_ORIGINS = [\n    \"http://127.0.0.1:5500\",\n]\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",",
         "detail": "djangochannels.settings",
         "documentation": {}
     },
@@ -528,7 +766,7 @@
         "kind": 5,
         "importPath": "djangochannels.settings",
         "description": "djangochannels.settings",
-        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nCORS_ALLOWED_ORIGINS = [\n    \"http://127.0.0.1:5500\",\n]\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',",
         "detail": "djangochannels.settings",
         "documentation": {}
     },
@@ -537,7 +775,16 @@
         "kind": 5,
         "importPath": "djangochannels.settings",
         "description": "djangochannels.settings",
-        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "peekOfCode": "ALLOWED_HOSTS = []\nCORS_ALLOWED_ORIGINS = [\n    \"http://127.0.0.1:5500\",\n]\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "djangochannels.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "djangochannels.settings",
+        "description": "djangochannels.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://127.0.0.1:5500\",\n]\n# Application definition\nINSTALLED_APPS = [\n    \"daphne\",\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
         "detail": "djangochannels.settings",
         "documentation": {}
     },
@@ -555,7 +802,7 @@
         "kind": 5,
         "importPath": "djangochannels.settings",
         "description": "djangochannels.settings",
-        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'djangochannels.urls'",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    \"corsheaders.middleware.CorsMiddleware\",\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
         "detail": "djangochannels.settings",
         "documentation": {}
     },
@@ -600,7 +847,7 @@
         "kind": 5,
         "importPath": "djangochannels.settings",
         "description": "djangochannels.settings",
-        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'djangochannels',\n        'HOST':'localhost',\n        'USER':'root',\n        'PORT':3306,\n        'PASSWORD':os.getenv('DB_PASSWORD')\n    }\n}",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'djangochannel',\n        'HOST':'localhost',\n        'USER':'root',\n        'PORT':3306,\n        'PASSWORD':os.getenv('DB_PASSWORD')\n    }\n}",
         "detail": "djangochannels.settings",
         "documentation": {}
     },
@@ -708,7 +955,7 @@
         "kind": 5,
         "importPath": "djangochannels.urls",
         "description": "djangochannels.urls",
-        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('playground/',include('playground.urls')),\n    path('api-auth/', include('rest_framework.urls')),\n    path('auth/', include('djoser.urls')),\n    path('auth/', include('djoser.urls.jwt')),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('playground/',include('playground.urls')),\n    # path('api-auth/', include('rest_framework.urls')),\n    path('auth/', include('djoser.urls')),\n    path('auth/', include('djoser.urls.jwt')),\n]",
         "detail": "djangochannels.urls",
         "documentation": {}
     },
@@ -726,8 +973,35 @@
         "kind": 6,
         "importPath": "myapp.apps",
         "description": "myapp.apps",
-        "peekOfCode": "class MyappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'myapp'",
+        "peekOfCode": "class MyappConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'myapp'\n    def ready(self) -> None:\n        import playground.signals.handlers",
         "detail": "myapp.apps",
+        "documentation": {}
+    },
+    {
+        "label": "GlobalConnectConsumer",
+        "kind": 6,
+        "importPath": "myapp.consumers",
+        "description": "myapp.consumers",
+        "peekOfCode": "class GlobalConnectConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        jwt_token = self.scope['url_route']['kwargs']['string']\n        self.group_id = \"global\"\n        auth = await jwt_verify(jwt_token)\n        if auth.status_code == 200:\n            data = auth.json()\n            self.scope[\"user\"] = data\n            await self.accept()\n            my_groups =await self.my_group_db()",
+        "detail": "myapp.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "GroupConsumer",
+        "kind": 6,
+        "importPath": "myapp.consumers",
+        "description": "myapp.consumers",
+        "peekOfCode": "class GroupConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        channel_layer = get_channel_layer()\n        global_group = \"global\"\n        self.group_id = str(self.scope['url_route']['kwargs']['pk'])\n        jwt_token = self.scope['url_route']['kwargs']['string']\n        auth = await jwt_verify(jwt_token)\n        if auth.status_code == 200:\n            data = auth.json()\n            self.scope[\"user\"] = data",
+        "detail": "myapp.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "GroupConsumerTest",
+        "kind": 6,
+        "importPath": "myapp.consumers",
+        "description": "myapp.consumers",
+        "peekOfCode": "class GroupConsumerTest(AsyncWebsocketConsumer):\n    async def connect(self):\n        await self.accept()\n        for i in range(10):\n            print(i)\n            await self.channel_layer.group_add(str(i), self.channel_name)\n        layers = get_channel_layer()\n        print(layers.__dict__)\n    async def receive(self, text_data):\n        await self.channel_layer.group_send(",
+        "detail": "myapp.consumers",
         "documentation": {}
     },
     {
@@ -735,7 +1009,7 @@
         "kind": 6,
         "importPath": "myapp.consumers",
         "description": "myapp.consumers",
-        "peekOfCode": "class MyConsumer(WebsocketConsumer):\n    groups = [\"broadcast\"]\n    def connect(self):\n        self.accept()\n        queryset = Messages.objects.all()\n        self.send(queryset[-1].text)\n    def receive(self, text_data):\n        print(text_data)\nclass AsyncMyConsumer(AsyncWebsocketConsumer):\n    groups = [\"broadcast\"]",
+        "peekOfCode": "class MyConsumer(WebsocketConsumer):\n    def connect(self):\n        jwt_token = self.scope['url_route']['kwargs']['string']\n        x = requests.get(\"http://127.0.0.1:8000/auth/users/\",headers={'Authorization': f'JWT {jwt_token}'})\n        if x.status_code == 200:\n            data = x.json()\n            self.scope[\"user\"] = data\n            self.accept()\n        else:\n            self.close()",
         "detail": "myapp.consumers",
         "documentation": {}
     },
@@ -744,7 +1018,25 @@
         "kind": 6,
         "importPath": "myapp.consumers",
         "description": "myapp.consumers",
-        "peekOfCode": "class AsyncMyConsumer(AsyncWebsocketConsumer):\n    groups = [\"broadcast\"]\n    @database_sync_to_async\n    def database(self):\n        queryset = Messages.objects.filter(account_id = self.scope['user'].id).all()\n        serializer = MessageSerializer(queryset, many=True)\n        serialized_data = serializer.data\n        return serialized_data\n    @database_sync_to_async\n    def database_post(self,message):",
+        "peekOfCode": "class AsyncMyConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        await self.accept()\n        await self.all_message()        \n    @database_sync_to_async\n    def database(self):\n        queryset = Messages.objects.filter(account_id = self.scope['user'].id).all()\n        serializer = MessageSerializer(queryset, many=True)\n        serialized_data = serializer.data\n        print(serialized_data)",
+        "detail": "myapp.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "HomePageConsumer",
+        "kind": 6,
+        "importPath": "myapp.consumers",
+        "description": "myapp.consumers",
+        "peekOfCode": "class HomePageConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        self.group_id = \"everyone\"\n        print(self.scope[\"user\"])\n        await self.accept()\n        joined_groups = await self.groups_database_joined()\n        await self.send_data(\"joined_groups\",joined_groups)\n        availabe_groups = await self.groups_database()\n        await self.send_data(\"availabe_groups\",availabe_groups)\n        await self.channel_layer.group_add(self.group_id,self.channel_name)",
+        "detail": "myapp.consumers",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_verify",
+        "kind": 2,
+        "importPath": "myapp.consumers",
+        "description": "myapp.consumers",
+        "peekOfCode": "def jwt_verify(jwt_token):\n    auth = requests.get(\"http://127.0.0.1:8000/auth/users/\",headers={'Authorization': f'JWT {jwt_token}'})\n    return auth\nclass GlobalConnectConsumer(AsyncWebsocketConsumer):\n    async def connect(self):\n        jwt_token = self.scope['url_route']['kwargs']['string']\n        self.group_id = \"global\"\n        auth = await jwt_verify(jwt_token)\n        if auth.status_code == 200:\n            data = auth.json()",
         "detail": "myapp.consumers",
         "documentation": {}
     },
@@ -753,8 +1045,62 @@
         "kind": 5,
         "importPath": "myapp.routing",
         "description": "myapp.routing",
-        "peekOfCode": "ws_url = [\n    path('myapp/test/',MyConsumer.as_asgi()),\n    path('myapp/asynctest/',AsyncMyConsumer.as_asgi())\n]",
+        "peekOfCode": "ws_url = [\n    path('myapp/global/<string>',GlobalConnectConsumer.as_asgi()),\n    path('myapp/test/<string>',MyConsumer.as_asgi()),\n    path('myapp/asynctest/',AsyncMyConsumer.as_asgi()),\n    path('myapp/groups/<int:pk>/<string>',GroupConsumer.as_asgi()),\n    path('myapp/groups/test',GroupConsumerTest.as_asgi()),\n    path('myapp/home/',HomePageConsumer.as_asgi())\n]",
         "detail": "myapp.routing",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "playground.migrations.0001_initial",
+        "description": "playground.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Account',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "playground.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "playground.migrations.0002_rename_totle_groups_title",
+        "description": "playground.migrations.0002_rename_totle_groups_title",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('playground', '0001_initial'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='groups',\n            old_name='totle',\n            new_name='title',\n        ),",
+        "detail": "playground.migrations.0002_rename_totle_groups_title",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "playground.migrations.0003_account_joined_groups",
+        "description": "playground.migrations.0003_account_joined_groups",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('playground', '0002_rename_totle_groups_title'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='account',\n            name='joined_groups',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "playground.migrations.0003_account_joined_groups",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "playground.migrations.0004_alter_messages_account",
+        "description": "playground.migrations.0004_alter_messages_account",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('playground', '0003_account_joined_groups'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='messages',\n            name='account',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='playground.account'),\n        ),",
+        "detail": "playground.migrations.0004_alter_messages_account",
+        "documentation": {}
+    },
+    {
+        "label": "create_account_when_create_user",
+        "kind": 2,
+        "importPath": "playground.signals.handlers",
+        "description": "playground.signals.handlers",
+        "peekOfCode": "def create_account_when_create_user(sender,**kwargs):\n    if kwargs['created']:\n        print(kwargs)\n        account = Account.objects.create(user = kwargs['instance'])\n        account.save()",
+        "detail": "playground.signals.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "@receiver(post_save,sender",
+        "kind": 5,
+        "importPath": "playground.signals.handlers",
+        "description": "playground.signals.handlers",
+        "peekOfCode": "@receiver(post_save,sender = settings.AUTH_USER_MODEL)\ndef create_account_when_create_user(sender,**kwargs):\n    if kwargs['created']:\n        print(kwargs)\n        account = Account.objects.create(user = kwargs['instance'])\n        account.save()",
+        "detail": "playground.signals.handlers",
         "documentation": {}
     },
     {
@@ -771,7 +1117,7 @@
         "kind": 6,
         "importPath": "playground.models",
         "description": "playground.models",
-        "peekOfCode": "class Account(models.Model):\n    user = models.OneToOneField(settings.AUTH_USER_MODEL,on_delete=models.CASCADE)\n    def first_name(self):\n        return self.user.first_name\n    def last_name(self):\n        return self.user.last_name\nclass Messages(models.Model):\n    text = models.CharField(max_length=50)\n    account = models.ForeignKey(Account,on_delete=models.CASCADE,related_name='messages')\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "peekOfCode": "class Account(models.Model):\n    user = models.OneToOneField(settings.AUTH_USER_MODEL,on_delete=models.CASCADE)\n    joined_groups = models.BooleanField(default=False)\n    def first_name(self):\n        return self.user.first_name\n    def last_name(self):\n        return self.user.last_name\n    def __str__(self):\n        return self.first_name +' '+self.last_name\nclass Messages(models.Model):",
         "detail": "playground.models",
         "documentation": {}
     },
@@ -780,8 +1126,35 @@
         "kind": 6,
         "importPath": "playground.models",
         "description": "playground.models",
-        "peekOfCode": "class Messages(models.Model):\n    text = models.CharField(max_length=50)\n    account = models.ForeignKey(Account,on_delete=models.CASCADE,related_name='messages')\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.text",
+        "peekOfCode": "class Messages(models.Model):\n    text = models.CharField(max_length=50)\n    account = models.ForeignKey(Account,on_delete=models.CASCADE)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.text\nclass Groups(models.Model):\n    title = models.CharField(max_length=50)\n    accounts = models.ManyToManyField(Account)\n    messages = models.ManyToManyField(Messages)",
         "detail": "playground.models",
+        "documentation": {}
+    },
+    {
+        "label": "Groups",
+        "kind": 6,
+        "importPath": "playground.models",
+        "description": "playground.models",
+        "peekOfCode": "class Groups(models.Model):\n    title = models.CharField(max_length=50)\n    accounts = models.ManyToManyField(Account)\n    messages = models.ManyToManyField(Messages)",
+        "detail": "playground.models",
+        "documentation": {}
+    },
+    {
+        "label": "AccountSerializer",
+        "kind": 6,
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "peekOfCode": "class AccountSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Account\n        fields = ['id', 'user', 'joined_groups', 'first_name', 'last_name']\n        read_only_fields = ['first_name', 'last_name']\nclass SimpleMessageSerializer(serializers.ModelSerializer):\n    account_name = serializers.SerializerMethodField()\n    class Meta:\n        model = Messages\n        fields = ['account_name','id', 'text','account_id', 'created_at']",
+        "detail": "playground.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleMessageSerializer",
+        "kind": 6,
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "peekOfCode": "class SimpleMessageSerializer(serializers.ModelSerializer):\n    account_name = serializers.SerializerMethodField()\n    class Meta:\n        model = Messages\n        fields = ['account_name','id', 'text','account_id', 'created_at']\n    def get_account_name(self, obj):\n        account_id = obj.account_id\n        try:\n            account = Account.objects.get(id=account_id)\n            full_name = f\"{account.user.first_name} {account.user.last_name}\"",
+        "detail": "playground.serializers",
         "documentation": {}
     },
     {
@@ -789,7 +1162,25 @@
         "kind": 6,
         "importPath": "playground.serializers",
         "description": "playground.serializers",
-        "peekOfCode": "class MessageSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Messages\n        fields = ['text']\n    def save(self, **kwargs):\n        messages = Messages.objects.create(account_id = self.context['user_id'],**self.validated_data)\n        messages.save()\n        return super().save(**kwargs)\n    def to_representation(self, instance):\n        data = super().to_representation(instance)",
+        "peekOfCode": "class MessageSerializer(serializers.ModelSerializer):\n    account_name = serializers.SerializerMethodField()\n    class Meta:\n        model = Messages\n        fields = ['account_name','id', 'text','account_id', 'created_at']\n    def get_account_name(self, obj):\n        account_id = obj.get('account_id')\n        try:\n            account = Account.objects.get(id=account_id)\n            full_name = f\"{account.user.first_name} {account.user.last_name}\"",
+        "detail": "playground.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "GroupSerializer",
+        "kind": 6,
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "peekOfCode": "class GroupSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Groups\n        fields = ['id','title','messages','accounts']\nclass SimpleGroupSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Groups\n        fields = ['id','title','members']\n    members = serializers.SerializerMethodField()\n    def get_members(self,obj):",
+        "detail": "playground.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleGroupSerializer",
+        "kind": 6,
+        "importPath": "playground.serializers",
+        "description": "playground.serializers",
+        "peekOfCode": "class SimpleGroupSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Groups\n        fields = ['id','title','members']\n    members = serializers.SerializerMethodField()\n    def get_members(self,obj):\n        account = Groups.objects.get(id = obj.id)\n        return account.accounts.all().count()",
         "detail": "playground.serializers",
         "documentation": {}
     },
@@ -816,7 +1207,7 @@
         "kind": 6,
         "importPath": "playground.views",
         "description": "playground.views",
-        "peekOfCode": "class MessageViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    serializer_class = MessageSerializer\n    def get_queryset(self):\n        if self.request.method == 'GET':\n            return Messages.objects.filter(account_id=self.request.user.id).all()\n    def get_serializer_context(self):\n        return {\n            'user_id':self.request.user.id\n        }",
+        "peekOfCode": "class MessageViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    serializer_class = MessageSerializer\n    def get_queryset(self):\n        if self.request.method == 'GET':\n            print(self.request.user)\n            return Messages.objects.filter(account_id=self.request.user.id).all()\n    def get_serializer_context(self):\n        return {\n            'user_id':self.request.user.id",
         "detail": "playground.views",
         "documentation": {}
     },
@@ -825,7 +1216,7 @@
         "kind": 2,
         "importPath": "playground.views",
         "description": "playground.views",
-        "peekOfCode": "def hello(request):\n    return render(request,'hello.html')\nclass MessageViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    serializer_class = MessageSerializer\n    def get_queryset(self):\n        if self.request.method == 'GET':\n            return Messages.objects.filter(account_id=self.request.user.id).all()\n    def get_serializer_context(self):\n        return {",
+        "peekOfCode": "def hello(request):\n    return render(request,'hello.html')\nclass MessageViewSet(ModelViewSet):\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    serializer_class = MessageSerializer\n    def get_queryset(self):\n        if self.request.method == 'GET':\n            print(self.request.user)\n            return Messages.objects.filter(account_id=self.request.user.id).all()\n    def get_serializer_context(self):",
         "detail": "playground.views",
         "documentation": {}
     },
